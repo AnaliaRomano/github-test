@@ -1,2 +1,3 @@
 # github-test
-Pruebas
+Pruebas - Adicionales a la clase 11 de GitHub
+
